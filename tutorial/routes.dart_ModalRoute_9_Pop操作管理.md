@@ -1,4 +1,4 @@
-# ModalRoute 类详解 - 第九部分：Pop 操作管理
+# ModalRoute Pop操作管理详解
 
 ## 概述
 

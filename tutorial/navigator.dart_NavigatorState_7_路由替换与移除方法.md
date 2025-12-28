@@ -1,4 +1,4 @@
-# NavigatorState 路由替换与移除方法
+# NavigatorState 路由替换与移除方法详解
 
 ## 概述
 

@@ -1,4 +1,4 @@
-# Navigator 类概述与使用指南
+# Navigator 概述与使用指南详解
 
 ## 功能概述
 

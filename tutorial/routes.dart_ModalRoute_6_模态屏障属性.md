@@ -1,4 +1,4 @@
-# ModalRoute 类详解 - 第六部分：模态屏障属性
+# ModalRoute 模态屏障属性详解
 
 ## 概述
 

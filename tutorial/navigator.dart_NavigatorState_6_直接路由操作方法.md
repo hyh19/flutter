@@ -1,4 +1,4 @@
-# NavigatorState 直接路由操作方法
+# NavigatorState 直接路由操作方法详解
 
 ## 概述
 

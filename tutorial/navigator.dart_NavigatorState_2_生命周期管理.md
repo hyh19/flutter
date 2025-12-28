@@ -1,4 +1,4 @@
-# NavigatorState 生命周期管理
+# NavigatorState 生命周期管理详解
 
 ## 概述
 

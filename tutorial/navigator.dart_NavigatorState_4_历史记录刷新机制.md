@@ -1,4 +1,4 @@
-# NavigatorState 历史记录刷新机制
+# NavigatorState 历史记录刷新机制详解
 
 ## 概述
 

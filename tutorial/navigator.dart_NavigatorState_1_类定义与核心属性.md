@@ -1,4 +1,4 @@
-# NavigatorState 类定义与核心属性
+# NavigatorState 类定义与核心属性详解
 
 ## 概述
 

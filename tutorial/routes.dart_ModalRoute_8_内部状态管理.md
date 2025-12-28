@@ -1,4 +1,4 @@
-# ModalRoute 类详解 - 第八部分：内部状态管理
+# ModalRoute 内部状态管理详解
 
 ## 概述
 

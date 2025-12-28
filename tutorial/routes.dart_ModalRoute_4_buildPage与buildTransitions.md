@@ -1,4 +1,4 @@
-# ModalRoute 类详解 - 第四部分：buildPage 与 buildTransitions
+# ModalRoute buildPage与buildTransitions详解
 
 ## 概述
 

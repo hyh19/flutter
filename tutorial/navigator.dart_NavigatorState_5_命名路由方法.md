@@ -1,4 +1,4 @@
-# NavigatorState 命名路由方法
+# NavigatorState 命名路由方法详解
 
 ## 概述
 

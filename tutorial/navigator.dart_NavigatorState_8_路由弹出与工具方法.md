@@ -1,4 +1,4 @@
-# NavigatorState 路由弹出与工具方法
+# NavigatorState 路由弹出与工具方法详解
 
 ## 概述
 

@@ -1,4 +1,4 @@
-# ModalRoute 类详解 - 第二部分：公共 API 与静态方法
+# ModalRoute 公共API与静态方法详解
 
 ## 概述
 
